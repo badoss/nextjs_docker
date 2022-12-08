@@ -2,6 +2,12 @@
 
 #### Nextjs + Tailwind CSS + Docker
 
+clone repo
+```
+git clone https://github.com/badoss/nextjs_docker.git
+```
+
+
 #### == docker ==
 
 build image 
