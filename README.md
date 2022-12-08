@@ -1,6 +1,6 @@
-## Nextjs + Docker
+## Nextjs_docker
 
-
+#### Nextjs + tailwindcss + Docker
 
 #### == docker ==
 
