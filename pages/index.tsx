@@ -11,9 +11,6 @@ export default function Home() {
       </p>
       <p className="font-sans text-1xl  text-transparent bg-clip-text bg-gradient-to-r from-[#ffff00] to-cyan-500 " >bad0s</p>
       </div>
-      
-
-      
     </div>
 
   )
